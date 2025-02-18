@@ -1,3 +1,10 @@
+SourcE: https://zindi.africa/users/oussema_hbr/competitions/certificate
+
+First, pip install -r requirements.txt
+
+Must run python -m spacy download en_core_web_sm
+
+
 # 🧠 GO DATA SCIENCE 4.0 - Mental Health Challenge  
 
 This repository contains our work for the **GO DATA SCIENCE 4.0 - Mental Health Challenge**.  
