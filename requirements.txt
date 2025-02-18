@@ -1,0 +1,14 @@
+# python 3.12.7
+
+contractions
+pandas
+nltk
+spacy
+transformers==4.48.3
+tqdm
+torch
+catboost
+xgboost
+lightgbm
+textstat
+scikit-learn
